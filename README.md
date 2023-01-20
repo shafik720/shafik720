@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shafiqul Hasan Russell</h1>
-<h3 align="center">My Name is Shafiqul Hasan Russell and I am a frontend web developer with expertise in React.js, JavaScript, HTML, CSS, Bootstrap and Firebase Authentication. I am also familiar with Node.js, Express.js and MongoDB. I have gained valuable experience through my passion for web development and have developed a wide range of skills that allow me to create high-quality, responsive and dynamic web applications. I am always looking for new and challenging projects to work on and I am dedicated to staying up to date with the latest web development technologies and best practices. My goal is to deliver top-notch solutions to my clients, and I take pride in my ability to understand the needs of my clients and deliver projects on time and within budget. You can check out my work on my Github profile and don't hesitate to contact me if you have any questions or ideas for a project.</h3>
+<h1>Hi 👋, I'm Shafiqul Hasan Russell</h1>
+<h3>A frontend web developer with expertise in React.js, JavaScript, HTML, CSS, Bootstrap and Firebase Authentication. I am also familiar with Node.js, Express.js and MongoDB. I have gained valuable experience through my passion for web development and have developed a wide range of skills that allow me to create high-quality, responsive and dynamic web applications. I am always looking for new and challenging projects to work on and I am dedicated to staying up to date with the latest web development technologies and best practices. My goal is to deliver top-notch solutions to my clients, and I take pride in my ability to understand the needs of my clients and deliver projects on time and within budget. You can check out my work on my Github profile and don't hesitate to contact me if you have any questions or ideas for a project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafik720&label=Profile%20views&color=0e75b6&style=flat" alt="shafik720" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafik720" alt="shafik720" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shafiq_russell" target="blank"><img src="https://img.shields.io/twitter/follow/shafiq_russell?logo=twitter&style=for-the-badge" alt="shafiq_russell" /></a> </p>
-
 - 🔭 I’m currently working on **Node Js**
 
-- 🌱 I’m currently learning **Node Js, MongoDB, Express Js**
+- 🌱 I’m currently learning **Node Js with MongoDB, Express Js**
 
 - 👨‍💻 All of my projects are available at [https://shafiq-russell.vercel.app/](https://shafiq-russell.vercel.app/)
 
@@ -23,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/shafiq_russell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafiq_russell" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shafiq5russell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafiq5russell" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/5861485/shafiqul-hasan-russell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/5861485/shafiqul-hasan-russell" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/5861485/shafiqul-hasan-russell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/5861485/shafiqul-hasan-russell" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
